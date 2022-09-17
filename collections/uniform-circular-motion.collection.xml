@@ -1,0 +1,16 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Textbook" authors="Hemant Dhivar">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10536</md:content-id>
+    <md:title>Uniform Circular Motion</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/2.0/">Creative Commons Attribution License 2.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>bb1e666a-77ac-4856-9a14-94f8dedac435</md:uuid>
+<md:slug>uniform-circular-motion</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Centipetal Force</md:title>
+      <col:content>                  </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
